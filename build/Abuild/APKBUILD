@@ -10,7 +10,6 @@ arch="noarch"
 license="MIT"
 depends="man-db"
 options="!check"
-options="$options ${DISABLE_CHECK:+!check}"
 
 package() {
     mkdir -p "$pkgdir"
