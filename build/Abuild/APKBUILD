@@ -2,7 +2,7 @@
 # Alpine-Maintainer: Natanael Copa <ncopa@alpinelinux.org>
 pkgname=docs
 pkgver=0.2
-pkgrel=${pkgrel:-0}
+pkgrel=0
 pkgdesc="Meta package for pulling in all documentation"
 #url="https://alpinelinux.org"
 url="https://oss.qnx.com"
